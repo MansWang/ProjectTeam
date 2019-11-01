@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\bin\Debug\'c to 'F.exe.config
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\bin\Debug\'c to 'F.exe
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\bin\Debug\'c to 'F.pdb
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\obj\Debug\'c to 'F.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\obj\Debug\'c to 'F.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\obj\Debug\'c to 'F.exe
+C:\Users\Student\source\repos\'c to 'F\'c to 'F\obj\Debug\'c to 'F.pdb
