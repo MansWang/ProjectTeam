@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\screen saver\screen saver\obj\Debug\screen saver.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\screen saver\screen saver\obj\Debug\screen saver.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\screen saver\screen saver\bin\Debug\screen saver.exe.config
+C:\Users\Student\source\repos\screen saver\screen saver\bin\Debug\screen saver.exe
+C:\Users\Student\source\repos\screen saver\screen saver\bin\Debug\screen saver.pdb
+C:\Users\Student\source\repos\screen saver\screen saver\obj\Debug\screen saver.exe
+C:\Users\Student\source\repos\screen saver\screen saver\obj\Debug\screen saver.pdb
